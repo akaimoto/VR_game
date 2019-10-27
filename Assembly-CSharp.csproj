@@ -46,9 +46,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\KillTarget.cs" />
-     <Compile Include="Assets\RandomPosition.cs" />
-     <Compile Include="Assets\lookMoveTo.cs" />
+     <Compile Include="Assets\Scripts\KillTarget.cs" />
+     <Compile Include="Assets\Scripts\RandomPosition.cs" />
+     <Compile Include="Assets\Scripts\lookMoveTo.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
      <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
