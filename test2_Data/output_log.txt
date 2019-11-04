@@ -23,25 +23,25 @@ Platform assembly: C:\Users\endai\github\VR_game\test2_Data\Managed\UnityEngine.
 Loading C:\Users\endai\github\VR_game\test2_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
 Platform assembly: C:\Users\endai\github\VR_game\test2_Data\Managed\Valve.Newtonsoft.Json.dll (this message is harmless)
 Loading C:\Users\endai\github\VR_game\test2_Data\Managed\Valve.Newtonsoft.Json.dll into Unity Child Domain
-- Completed reload, in  0.021 seconds
+- Completed reload, in  0.017 seconds
 Platform assembly: C:\Users\endai\github\VR_game\test2_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\endai\github\VR_game\test2_Data\Managed\System.dll (this message is harmless)
 <RI> Initializing input.
 <RI> Input initialized.
-desktop: 3840x2160 60Hz; virtual: 5760x2160 at 0,0
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initialized touch support.
 OpenVR initialized!
  
 (Filename:  Line: 424)
 
-UnloadTime: 0.433400 ms
+UnloadTime: 0.468300 ms
 Setting up 6 worker threads for Enlighten.
-  Thread -> id: 627c -> priority: 1 
-  Thread -> id: 4360 -> priority: 1 
-  Thread -> id: 4bf8 -> priority: 1 
-  Thread -> id: 4224 -> priority: 1 
-  Thread -> id: 3828 -> priority: 1 
-  Thread -> id: dd0 -> priority: 1 
+  Thread -> id: 7168 -> priority: 1 
+  Thread -> id: 4fcc -> priority: 1 
+  Thread -> id: 4354 -> priority: 1 
+  Thread -> id: 600 -> priority: 1 
+  Thread -> id: 4e88 -> priority: 1 
+  Thread -> id: 2a3c -> priority: 1 
 OpenVR Shutdown
  
 (Filename:  Line: 889)
