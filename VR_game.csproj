@@ -92,6 +92,7 @@
     <Compile Include="Assets\ButtonExecuteTest.cs" />
     <Compile Include="Assets\CursorPositioner.cs" />
     <Compile Include="Assets\DestroyTimeout.cs" />
+    <Compile Include="Assets\Scripts\Clicker.cs" />
     <Compile Include="Assets\Scripts\KillTarget.cs" />
     <Compile Include="Assets\Scripts\LookMoveTo.cs" />
     <Compile Include="Assets\Scripts\RandomPosition.cs" />
