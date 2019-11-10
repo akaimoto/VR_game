@@ -92,6 +92,8 @@
     <Compile Include="Assets\ButtonExecuteTest.cs" />
     <Compile Include="Assets\CursorPositioner.cs" />
     <Compile Include="Assets\DestroyTimeout.cs" />
+    <Compile Include="Assets\FlippinDashboard.cs" />
+    <Compile Include="Assets\HeadGesture.cs" />
     <Compile Include="Assets\Scripts\Clicker.cs" />
     <Compile Include="Assets\Scripts\KillTarget.cs" />
     <Compile Include="Assets\Scripts\LookMoveTo.cs" />
