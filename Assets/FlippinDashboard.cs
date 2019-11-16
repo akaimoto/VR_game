@@ -7,8 +7,10 @@ public class FlippinDashboard : MonoBehaviour {
     private GameObject dashboard;
     private bool isOpen = true;
     private Vector3 startRotation;
-
+	private float timer = 0.0f;
+	private float timerReset = 2.0f;
 	// Use this for initialization
+
 	void Start () {
         gesture = GetComponent<HeadGesture>();
         dashboard = GameObject.Find("Dashboard");
@@ -18,14 +20,16 @@ public class FlippinDashboard : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        if (gesture.isFacingDown)
-        {
-            OpenDashboard();
-        }
-        else
-        {
-            CloseDashboard();
-        }
+		if (gesture.isMovingDown) {
+			OpenDashboard ();
+		} else if (!gesture.isFacingDown) {
+			timer -= Time.deltaTime;
+			if (timer <= 0.0f) {
+				CloseDashboard ();
+			} 
+		} else {
+				timer = timerReset;
+		}
 	}
 
     private void CloseDashboard()

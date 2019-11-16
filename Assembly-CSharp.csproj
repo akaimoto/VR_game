@@ -46,7 +46,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\ButtonExecute.cs" />
+     <Compile Include="Assets\ButtonExecuteTest.cs" />
      <Compile Include="Assets\CursorPositioner.cs" />
+     <Compile Include="Assets\DestroyTimeout.cs" />
+     <Compile Include="Assets\FlippinDashboard.cs" />
+     <Compile Include="Assets\HeadGesture.cs" />
+     <Compile Include="Assets\Scripts\Clicker.cs" />
      <Compile Include="Assets\Scripts\KillTarget.cs" />
      <Compile Include="Assets\Scripts\RandomPosition.cs" />
      <Compile Include="Assets\Scripts\lookMoveTo.cs" />
