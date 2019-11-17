@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/vr_game1.unity
+- path: Assets/vr_game2.unity
   isLoaded: 1
   isActive: 1
