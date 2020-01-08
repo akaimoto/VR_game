@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 5831cdcd780c04c4db52cd4653d6eedf
+timeCreated: 1578142087
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Baseboard
+    100002: Baseboard1
+    100004: Cabinet1
+    100006: Cabinet1_Door
+    100008: Countertop1
+    100010: CTRL_Baseboard
+    100012: CTRL_Hole
+    100014: CTRL_Hole.001
+    100016: Door
+    100018: Door_Group
+    100020: DoorFrame
+    100022: Handle
+    100024: Handle.001
+    100026: Handle.002
+    100028: Handle_Back
+    100030: Handle_Front
+    100032: Lamp_B1
+    100034: Lamp_B2
+    100036: Lamp_base
+    100038: Lamp_Bulb
+    100040: Lampholder
+    100042: Lampshade
+    100044: Lampstrings
+    100046: Rail
+    100048: Room
+    100050: //RootNode
+    100052: Shelves1
+    100054: Support_0.L
+    100056: Support_1.L
+    100058: Window.L
+    100060: Window.R
+    100062: Window_Group
+    100064: WindowFrame
+    100066: Windows_Sill
+    400000: Baseboard
+    400002: Baseboard1
+    400004: Cabinet1
+    400006: Cabinet1_Door
+    400008: Countertop1
+    400010: CTRL_Baseboard
+    400012: CTRL_Hole
+    400014: CTRL_Hole.001
+    400016: Door
+    400018: Door_Group
+    400020: DoorFrame
+    400022: Handle
+    400024: Handle.001
+    400026: Handle.002
+    400028: Handle_Back
+    400030: Handle_Front
+    400032: Lamp_B1
+    400034: Lamp_B2
+    400036: Lamp_base
+    400038: Lamp_Bulb
+    400040: Lampholder
+    400042: Lampshade
+    400044: Lampstrings
+    400046: Rail
+    400048: Room
+    400050: //RootNode
+    400052: Shelves1
+    400054: Support_0.L
+    400056: Support_1.L
+    400058: Window.L
+    400060: Window.R
+    400062: Window_Group
+    400064: WindowFrame
+    400066: Windows_Sill
+    2300000: Baseboard
+    2300002: Baseboard1
+    2300004: Cabinet1
+    2300006: Cabinet1_Door
+    2300008: Countertop1
+    2300010: CTRL_Baseboard
+    2300012: CTRL_Hole
+    2300014: CTRL_Hole.001
+    2300016: Door
+    2300018: DoorFrame
+    2300020: Handle
+    2300022: Handle.001
+    2300024: Handle.002
+    2300026: Handle_Back
+    2300028: Handle_Front
+    2300030: Lamp_B1
+    2300032: Lamp_B2
+    2300034: Lamp_base
+    2300036: Lamp_Bulb
+    2300038: Lampholder
+    2300040: Lampshade
+    2300042: Lampstrings
+    2300044: Rail
+    2300046: Room
+    2300048: Shelves1
+    2300050: Support_0.L
+    2300052: Support_1.L
+    2300054: Window.L
+    2300056: Window.R
+    2300058: WindowFrame
+    2300060: Windows_Sill
+    3300000: Baseboard
+    3300002: Baseboard1
+    3300004: Cabinet1
+    3300006: Cabinet1_Door
+    3300008: Countertop1
+    3300010: CTRL_Baseboard
+    3300012: CTRL_Hole
+    3300014: CTRL_Hole.001
+    3300016: Door
+    3300018: DoorFrame
+    3300020: Handle
+    3300022: Handle.001
+    3300024: Handle.002
+    3300026: Handle_Back
+    3300028: Handle_Front
+    3300030: Lamp_B1
+    3300032: Lamp_B2
+    3300034: Lamp_base
+    3300036: Lamp_Bulb
+    3300038: Lampholder
+    3300040: Lampshade
+    3300042: Lampstrings
+    3300044: Rail
+    3300046: Room
+    3300048: Shelves1
+    3300050: Support_0.L
+    3300052: Support_1.L
+    3300054: Window.L
+    3300056: Window.R
+    3300058: WindowFrame
+    3300060: Windows_Sill
+    4300000: Room
+    4300002: Baseboard
+    4300004: DoorFrame
+    4300006: Door
+    4300008: Handle_Front
+    4300010: Handle_Back
+    4300012: CTRL_Hole
+    4300014: CTRL_Baseboard
+    4300016: Cabinet1
+    4300018: Cabinet1_Door
+    4300020: Handle
+    4300022: Countertop1
+    4300024: Baseboard1
+    4300026: Shelves1
+    4300028: WindowFrame
+    4300030: Window.L
+    4300032: Handle.001
+    4300034: Window.R
+    4300036: Handle.002
+    4300038: Windows_Sill
+    4300040: CTRL_Hole.001
+    4300042: Lamp_base
+    4300044: Lampholder
+    4300046: Lampstrings
+    4300048: Lamp_B1
+    4300050: Lamp_B2
+    4300052: Lamp_Bulb
+    4300054: Lampshade
+    4300056: Rail
+    4300058: Support_0.L
+    4300060: Support_1.L
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

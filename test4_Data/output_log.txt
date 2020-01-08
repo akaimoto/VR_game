@@ -5,7 +5,7 @@ Direct3D:
     Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
     Vendor:   NVIDIA
     VRAM:     2988 MB
-    Driver:   25.21.14.1616
+    Driver:   26.21.14.3200
 Begin MonoManager ReloadAssembly
 Platform assembly: C:\Users\endai\github\VR_game_First_person\test4_Data\Managed\UnityEngine.dll (this message is harmless)
 Loading C:\Users\endai\github\VR_game_First_person\test4_Data\Managed\UnityEngine.dll into Unity Child Domain
@@ -23,7 +23,7 @@ Platform assembly: C:\Users\endai\github\VR_game_First_person\test4_Data\Managed
 Loading C:\Users\endai\github\VR_game_First_person\test4_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
 Platform assembly: C:\Users\endai\github\VR_game_First_person\test4_Data\Managed\Valve.Newtonsoft.Json.dll (this message is harmless)
 Loading C:\Users\endai\github\VR_game_First_person\test4_Data\Managed\Valve.Newtonsoft.Json.dll into Unity Child Domain
-- Completed reload, in  0.023 seconds
+- Completed reload, in  0.016 seconds
 Platform assembly: C:\Users\endai\github\VR_game_First_person\test4_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\endai\github\VR_game_First_person\test4_Data\Managed\System.dll (this message is harmless)
 <RI> Initializing input.
@@ -34,11 +34,15 @@ OpenVR initialized!
  
 (Filename:  Line: 424)
 
-UnloadTime: 0.427800 ms
+UnloadTime: 0.435500 ms
 Setting up 6 worker threads for Enlighten.
-  Thread -> id: 38dc -> priority: 1 
-  Thread -> id: 5168 -> priority: 1 
-  Thread -> id: 5ee4 -> priority: 1 
-  Thread -> id: 46c -> priority: 1 
-  Thread -> id: 6a30 -> priority: 1 
-  Thread -> id: 2760 -> priority: 1 
+  Thread -> id: 840c -> priority: 1 
+  Thread -> id: 11f54 -> priority: 1 
+  Thread -> id: 128e4 -> priority: 1 
+  Thread -> id: 7d04 -> priority: 1 
+  Thread -> id: 11edc -> priority: 1 
+  Thread -> id: 11ee4 -> priority: 1 
+OpenVR Shutdown
+ 
+(Filename:  Line: 889)
+

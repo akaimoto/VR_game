@@ -88,15 +88,17 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\AttackTarget.cs" />
     <Compile Include="Assets\ButtonExecute.cs" />
     <Compile Include="Assets\ButtonExecuteTest.cs" />
+    <Compile Include="Assets\Clicker.cs" />
     <Compile Include="Assets\CursorPositioner.cs" />
     <Compile Include="Assets\DestroyTimeout.cs" />
     <Compile Include="Assets\FlippinDashboard.cs" />
     <Compile Include="Assets\GestureWalk.cs" />
     <Compile Include="Assets\HeadGesture.cs" />
     <Compile Include="Assets\HeadLookWalk.cs" />
-    <Compile Include="Assets\Scripts\Clicker.cs" />
+    <Compile Include="Assets\LineUP.cs" />
     <Compile Include="Assets\Scripts\KillTarget.cs" />
     <Compile Include="Assets\Scripts\LookMoveTo.cs" />
     <Compile Include="Assets\Scripts\RandomPosition.cs" />
@@ -278,6 +280,14 @@
     <Compile Include="Assets\SteamVR\Scripts\SteamVR_TrackingReferenceManager.cs" />
     <Compile Include="Assets\SteamVR\Scripts\SteamVR_Utils.cs" />
     <Compile Include="Assets\SteamVR\WindowsHelper\SteamVR_Windows_Editor_Helper.cs" />
+    <Compile Include="Assets\SteamVR_Input\ActionSetClasses\SteamVR_Input_ActionSet_buggy.cs" />
+    <Compile Include="Assets\SteamVR_Input\ActionSetClasses\SteamVR_Input_ActionSet_default.cs" />
+    <Compile Include="Assets\SteamVR_Input\ActionSetClasses\SteamVR_Input_ActionSet_mixedreality.cs" />
+    <Compile Include="Assets\SteamVR_Input\ActionSetClasses\SteamVR_Input_ActionSet_platformer.cs" />
+    <Compile Include="Assets\SteamVR_Input\SteamVR_Input_ActionSets.cs" />
+    <Compile Include="Assets\SteamVR_Input\SteamVR_Input_Actions.cs" />
+    <Compile Include="Assets\SteamVR_Input\SteamVR_Input_Initialization.cs" />
+    <Compile Include="Assets\TargetHit.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />

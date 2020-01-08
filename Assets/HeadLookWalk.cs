@@ -7,7 +7,7 @@ public class HeadLookWalk : MonoBehaviour {
     public bool isWalking = false;
 
     private CharacterController controller;
-    private Clicker clicker;
+    private Clicker clicker = new Clicker();
     private void Start()
     {
         controller = GetComponent<CharacterController>();
